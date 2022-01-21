@@ -10,7 +10,7 @@ namespace CSharpTutorials
     {
         static void Main(string[] args)
         {
-            string message = "Hello World!!";
+            string message = "Hello Amrita";
 
             Console.WriteLine(message);
         }
