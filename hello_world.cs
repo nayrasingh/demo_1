@@ -11,8 +11,10 @@ namespace CSharpTutorials
         static void Main(string[] args)
         {
             string message = "Hello World!!";
-
-            Console.WriteLine(message);
+            string message1 = "Welcome to the demo_branch1!";
+            Console.WriteLine(message1);
+            string message2 = "Welcome to the demo_branch2!!";
+            Console.WriteLine(message2);
         }
     }
 }
